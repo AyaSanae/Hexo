@@ -17,6 +17,8 @@
     <% if (theme.hitokoto && theme.hitokoto.enable) { %>
       <p id="hitokoto"></p>
       <script src="https://v1.hitokoto.cn/?<%= theme.hitokoto.type ? 'c=' + theme.hitokoto.type + '&' : '' %>encode=js&select=%23hitokoto" defer></script>
+
+
     <% } %>
 
     <% if (theme.beian) { %>
