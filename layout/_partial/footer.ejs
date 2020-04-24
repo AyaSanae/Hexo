@@ -17,7 +17,9 @@
     <% if (theme.hitokoto && theme.hitokoto.enable) { %>
       <p id="hitokoto"></p>
       <script src="https://v1.hitokoto.cn/?<%= theme.hitokoto.type ? 'c=' + theme.hitokoto.type + '&' : '' %>encode=js&select=%23hitokoto" defer></script>
-
+      <script type="text/javascript">
+                      document.getElementById("hitokoto").style.color="DeepPink";
+      </script>
 
     <% } %>
 
