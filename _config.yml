@@ -2,12 +2,13 @@
 menu:
   HOME: /
   ABOUT: /about
-  LINK: /links
+  #LINK: /links
   TAGS: /tags
   CATEGORIES: /categories
+
 # logo: https://qiniu.miiiku.xyz/src/images/logo.png
-banner: https://qiniu.miiiku.xyz/src/images/banner.jpg
-# banner: css/images/banner.jpg
+  #banner: https://qiniu.miiiku.xyz/src/images/banner.jpg
+banner: /assets/home.jpg
 
 # large cover
 # long: [article, link]
@@ -28,8 +29,8 @@ hitokoto:
 # You can get your appid and appkey from https://leancloud.cn
 valine:
   enable: false
-  appId: 
-  appKey: 
+  appId: g0ljrHI15FrAsomtp5uTylTc-gzGzoHsz
+  appKey: wd5j3qviRW5C5Ry7skrBsvNR
   avatar: mm
   placeholder: 随便说点什么叭～
   notify: true
@@ -50,8 +51,8 @@ dplayer:
   loop: false
   mutex: true
 
-# aplayer 音频播放
-# docs: https://aplayer.js.org/#/zh-Hans/
+#  音频播放
+# docs: https://.js.org/#/zh-Hans/
 aplayer:
   enable: true
   theme: "#b7daff"
