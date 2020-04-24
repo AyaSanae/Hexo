@@ -88,6 +88,9 @@ baidu_analytics:
 tencent_analytics: 
 favicon: /favicon.ico
 
+# 樱花飘落动特效
+sakura:
+  enable: true
 
 # Social Icon
 social_icon:
