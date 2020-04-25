@@ -69,10 +69,14 @@
   <%- partial('_partial/footer-script') %>
   <%# 加载自定义脚本代码 %>
   <%- partial('_partial/footer-other') %>
+  
    <!-- 樱花特效  -->
   <% if (theme.sakura.enable) { %>
     <%- partial('_partial/sakura')%>
   <% } %>
 
+  <!-- 鼠标点击特效  -->
+  <%- partial('_partial/mouse')%>
+  <!--test-->
 </body>
 </html>
