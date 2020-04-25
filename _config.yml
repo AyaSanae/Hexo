@@ -92,6 +92,8 @@ favicon: /favicon.ico
 sakura:
   enable: true
 
+mouse:
+  enable: true
 # Social Icon
 social_icon:
   header_enable: false
