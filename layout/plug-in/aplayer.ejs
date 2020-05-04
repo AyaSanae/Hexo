@@ -10,6 +10,9 @@
       elsArr.forEach(el => {
         new APlayer({
           container: el,
+          <% if (theme.aplayer.fixed) { %>
+          fixed: true,
+          <% } %>
           audio: { ...el.dataset },
           theme: "<%= theme.aplayer.theme %>",
           lrcType: <%= theme.aplayer.lrcType %>,
