@@ -1,11 +1,13 @@
 ---
-title: 你好,四月
+title: 你好,五月
 date: 2020-02-11 15:00:00
 comments: false 
-top: true
-cover: /assets/hello.jpg
-
+top: 1
+cover: /assets/hello.png
 
 ---
 
->*谷雨是充满激情的，它招来了燕子，唤来了百灵，叫来了喜鹊，喊来了布谷，引来了蜂蝶。在谷雨的淅沥中，百鸟齐鸣，蜂飞蝶舞，它要一扫冬天的荒寂，带来生机盎然的新春。*
+>*春的梦想，交由夏来追逐;春的希望，交由夏来完成;春的活力，交由夏来散发;春的美好，交由夏来缔造。*
+
+{% aplayer name="アイロニ" artist="鹿乃" url="https://qiniu.miiiku.xyz/public/music/鹿乃 - アイロニ.mp3" lrc="https://qiniu.miiiku.xyz/public/music/鹿乃 - アイロニ.lrc" cover="https://qiniu.miiiku.xyz/public/music/鹿乃 - アイロニ.jpg" %}
+
