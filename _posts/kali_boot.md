@@ -2,12 +2,13 @@
 title: 解决Windows10更新或重装后kali引导丢失
 subtitle:
 date: 2020-05-04 12:58
+comments: true
 categories:
     Kali
 tags:
     Kali
 cover: /assets/kali_boot.jpg
-comments: true
+
 
 ---
 

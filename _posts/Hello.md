@@ -7,7 +7,8 @@ cover: /assets/hello.png
 
 ---
 
->*春的梦想，交由夏来追逐;春的希望，交由夏来完成;春的活力，交由夏来散发;春的美好，交由夏来缔造。*
+> 流萤漫天花共舞,闲蝉栖柳风奏湖.
+> 十年一梦不觉醒,夏祭花火终成空.
 
-{% aplayer name="アイロニ" artist="鹿乃" url="https://qiniu.miiiku.xyz/public/music/鹿乃 - アイロニ.mp3" lrc="https://qiniu.miiiku.xyz/public/music/鹿乃 - アイロニ.lrc" cover="https://qiniu.miiiku.xyz/public/music/鹿乃 - アイロニ.jpg" %}
+{% aplayer name="夏祭り、夢花火" artist="妹尾武" url="http://music.163.com/song/media/outer/url?id=28411784.mp3" lrc="" cover="" %}
 
