@@ -10,7 +10,7 @@ comments: true
 
 ---
 
-{% aplayer name="東方萃夢想" artist="みなも" url="http://music.163.com/song/media/outer/url?id=459159657.mp3" lrc="" cover="" %}
+{% aplayer name="東方萃夢想" artist="みなも" url="/music/东方萃梦想/东方萃梦想.mp3" lrc="" cover="/music/东方萃梦想/cover.jpg" %}
 
 ## 引言
 来看下面这段代码
