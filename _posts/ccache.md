@@ -2,11 +2,11 @@
 title: 使用Ccache来加速内核的编译
 date: 2020-06-20 12:51
 categories:
-    C
-    kernel
+    - C
+    - kernel
 tags:
-    C
-    kernel
+    - C
+    - kernel
 cover: /assets/ccache.jpg
 comments: true
 
@@ -15,7 +15,7 @@ comments: true
 编译一个Android内核,我需要8min+,太久了,无法忍受.
 使用Ccache来加速第二次的内核编译时间
 
-## ccache简介
+## Ccache简介
 ccache 工具通过将头文件高速缓存到源文件之中而改进了构建性能，因而通过减少每一步编译时添加头文件所需要的时间而提高了构建速度.
 
 ## 安装Ccache
@@ -79,3 +79,4 @@ enjoy:smile:.
 
 ## 拓展
 ccache不仅仅可以用来加速编译Android内核,它还可以加速Xcode以及gcc还有g++编译的项目
+ccache只有在第二次编译或以上的效果才会体现出来
