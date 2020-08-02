@@ -103,7 +103,7 @@ social_icon:
   header_enable: false
   footer_enable: true
   icons:
-    - { type: email,      value: liak0@qq.com}
+    - { type: email,      value: liak_41@qq.com}
     - { type: github,     value: }
     - { type: google+,    value: }
     - { type: ins,        value: }
