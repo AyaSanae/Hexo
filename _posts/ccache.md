@@ -2,11 +2,9 @@
 title: 使用Ccache来加速内核的编译
 date: 2020-06-20 12:51
 categories:
-    - C
-    - kernel
+    - Kernel
 tags:
-    - C
-    - kernel
+    - Kernel
 cover: /assets/ccache.jpg
 comments: true
 
