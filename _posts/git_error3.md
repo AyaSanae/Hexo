@@ -1,6 +1,6 @@
 ---
-title: 解决git clone 完成后提示'error: RPC failed; curl 56 GnuTLS recv error (-9)'
-date: 2020-04-07 13:21
+title: 解决git clone 完成后提示 error:RPC failed;curl 56 GnuTLS recv error (-9)
+date: 2021-02-10 13:21
 categories:
     Git
 tags:
