@@ -1,14 +1,14 @@
 ---
-title: Hello,Summer
-date: 2020-02-05 15:00:00
+title: Hello,Winter
+date: 2020-11-07 15:00:00
 comments: false 
 top: 1
 cover: /assets/hello.png
 
 ---
 
-> *流萤漫天花共舞,闲蝉栖柳风奏湖.*
-> *十年一梦不觉醒,夏祭花火终成空.*
+> *绿蚁新醅酒，红泥小火炉.*
+> *晚来天欲雪，能饮一杯无.*
 
-{% aplayer name="夏祭り、夢花火" artist="妹尾武" url="/music/夏祭梦花火/夏祭梦花火.mp3" lrc="" cover="/music/夏祭梦花火/cover.jpg" %}
+{% aplayer name="How to spend winter" artist="趣味工房にんじんわいん" url="/music/winter/How to spend winter.flac" lrc="" cover="/music/winter/cover.jpg" %}
 
